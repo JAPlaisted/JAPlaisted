@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JPlaisted
-- 👀 I’m interested in Web Development & Artificial Intelligence
-- 🌱 I’m currently learning React + Vite + TypeScript workflow
+- 👀 I’m interested in Robotics, Web Development, & Artificial Intelligence
+- 🌱 I’m currently learning LLM api integration. 
 - 💞️ I’m looking to collaborate on any computer vision projects!
 
 <!---
